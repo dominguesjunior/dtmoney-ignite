@@ -3,7 +3,6 @@ import { Header } from './components/Header';
 import { GlobalStyle } from './styles/global';
 import Modal from 'react-modal';
 import { useState } from 'react';
-import { TransactionsTable } from './components/TransactionsTable';
 import { TransactionModal } from './components/TransactionModal';
 
 Modal.setAppElement('#root');
